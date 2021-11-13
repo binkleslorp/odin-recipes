@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes create a page with links to recipes and images of food
